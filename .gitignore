@@ -1,0 +1,15 @@
+# Ignore build output
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore CMake build folders
+bld/
+
