@@ -7,6 +7,8 @@ endif()
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS on)
 
+set(CMAKE_BUILD_TYPE Debug)
+
 project(FUNCompiler C)
 
 add_executable(
